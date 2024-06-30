@@ -1,0 +1,9 @@
+[submodule "Grounded-Segment-Anything"]
+	path = Grounded-Segment-Anything
+	url = https://github.com/Magjerds/Grounded-Segment-Anything.git
+[submodule "src/grounded-sam"]
+	path = src/grounded-sam
+	url = https://github.com/Magjerds/Grounded-Segment-Anything.git
+[submodule "src/reveal"]
+	path = src/reveal
+	url = https://github.com/Magjerds/reveal.git
